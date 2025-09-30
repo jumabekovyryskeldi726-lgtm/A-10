@@ -3,3 +3,8 @@ text-align: right;
 width: 34px;
 
 }
+.cii {
+	width: 350px;
+	height: 340px;
+	border: 2px solid red;
+}
